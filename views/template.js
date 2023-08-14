@@ -44,6 +44,8 @@ module.exports = {
             <p>
             <input type="submit" value="업로드" name="submit">
             </p>
+            <input type="file" name="pdf">
+            <button type="submit">업로드</button>
     </form>
         </body>
         </html>
